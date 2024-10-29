@@ -1,4 +1,4 @@
-# Data Science 
+# Data Science Course Lectures and Assignments
 
 Welcome to the Data Science Course Lectures repository! This repository includes key lecture files and assignments that guide you through essential data science topics. Each lecture builds foundational skills, progressing from introductory concepts to applied data analysis techniques.
 
@@ -13,7 +13,7 @@ Welcome to the Data Science Course Lectures repository! This repository includes
 
 ---
 
-### Lecture 1: Introduction to Data Science
+### [Lecture 1: Introduction to Data Science](./Assignment/Assignment1/assignment_1.ipynb)
 **Overview**: This lecture introduces data science fundamentals, covering necessary skills, workflow phases, and machine learning concepts.
 
 - **Topics Covered**:
@@ -22,12 +22,11 @@ Welcome to the Data Science Course Lectures repository! This repository includes
   - The Data Science Workflow
   - Supervised vs. Unsupervised Learning and key algorithms
 
-📄 [Lecture Notes](./lecture_1.pdf)  
 ✍️ *No assignment for Lecture 1*
 
 ---
 
-### Lecture 2: Python Data Types
+### [Lecture 2: Python Data Types](./Assignment/Assignment2/assignment_2.ipynb)
 **Overview**: This lecture explores Python’s core data types and their use in data manipulation.
 
 - **Topics Covered**:
@@ -36,12 +35,9 @@ Welcome to the Data Science Course Lectures repository! This repository includes
   - Iterability and mutability
   - Variable assignment and modification
 
-📄 [Lecture Notes](./lecture_2.pdf)  
-✍️ [Assignment 1](./assignment_1.ipynb)
-
 ---
 
-### Lecture 3: Conditional Logic and Control Flow
+### [Lecture 3: Conditional Logic and Control Flow](./Assignment/Assignment3/assignment_3.ipynb)
 **Overview**: This lecture covers conditional logic in Python, essential for creating programs that make decisions.
 
 - **Topics Covered**:
@@ -49,12 +45,9 @@ Welcome to the Data Science Course Lectures repository! This repository includes
   - Writing conditional statements with `if`, `elif`, and `else`
   - Membership and comparison operators
 
-📄 [Lecture Notes](./lecture_3.pdf)  
-✍️ [Assignment 2](./assignment_2.ipynb)
-
 ---
 
-### Lecture 4: Dictionaries and Sets
+### [Lecture 4: Dictionaries and Sets](./Assignment/Assignment4/assignment_4.ipynb)
 **Overview**: This lecture discusses dictionaries and sets in Python, useful for storing and retrieving data efficiently.
 
 - **Topics Covered**:
@@ -62,12 +55,9 @@ Welcome to the Data Science Course Lectures repository! This repository includes
   - Dictionary methods: `.keys()`, `.values()`, `.items()`, `.get()`, and `.update()`
   - Set operations and use cases
 
-📄 [Lecture Notes](./lecture_4.pdf)  
-✍️ [Assignment 3](./assignment_3.ipynb)
-
 ---
 
-### Lecture 5: Scoping a Data Science Project
+### [Lecture 5: Scoping a Data Science Project](./Assignment/Assignment5/assignment_5.ipynb)
 **Overview**: This lecture explains scoping a data science project, focusing on understanding business needs and objectives.
 
 - **Topics Covered**:
@@ -75,21 +65,15 @@ Welcome to the Data Science Course Lectures repository! This repository includes
   - Choosing techniques: supervised vs. unsupervised learning
   - Data requirements and MVP approach for project planning
 
-📄 [Lecture Notes](./lecture_5.pdf)  
-✍️ [Assignment 4](./assignment_4.ipynb)
-
 ---
 
-### Lecture 6: Exploratory Data Analysis (EDA)
+### [Lecture 6: Exploratory Data Analysis (EDA)](./Assignment/Assignment6/assignment_6.ipynb)
 **Overview**: This lecture introduces exploratory data analysis techniques to better understand and interpret data.
 
 - **Topics Covered**:
   - EDA techniques: filtering, sorting, grouping, visualizing data
   - Data visualization methods: histograms, scatterplots, and spotting outliers
   - Practical insights and interpretation of data
-
-📄 [Lecture Notes](./lecture_6.pdf)  
-✍️ [Assignment 5](./assignment_5.ipynb)
 
 ---
 
