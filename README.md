@@ -1,4 +1,4 @@
-# Data Science Course Lectures and Assignments
+# Data Science 
 
 Welcome to the Data Science Course Lectures repository! This repository includes key lecture files and assignments that guide you through essential data science topics. Each lecture builds foundational skills, progressing from introductory concepts to applied data analysis techniques.
 
