@@ -85,5 +85,5 @@ The final project is a comprehensive data science project that applies all the c
 ### **Project Files**
 
 - **[Final Project Code](Final/final.ipynb)**: The Jupyter notebook containing the full code for the final project, including data preprocessing, model building, and evaluation.
-- **[Final Project Report](./final_project/final_project_report.pdf)**: A detailed report summarizing the project, methodology, results, and conclusions.
+- **[Final Project Report](Final/Analysis of sleep .pdf)**: A detailed report summarizing the project, methodology, results, and conclusions.
 
