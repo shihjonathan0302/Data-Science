@@ -71,11 +71,11 @@ The final project is a comprehensive data science project that applies all the c
    - Identify trends, relationships, and outliers within the data.
 
 4. **Model Building**  
-   - Implement multiple machine learning algorithms (e.g., regression, classification, or clustering models) depending on the problem.  
+   - Implement multiple machine learning algorithms (e.g., regression) depending on the problem.  
    - Use both supervised and unsupervised learning techniques as appropriate.
 
 5. **Model Evaluation and Tuning**  
-   - Evaluate models using appropriate metrics (e.g., accuracy, precision, recall, F1 score for classification models; MSE for regression models).
+   - Evaluate models using appropriate metrics (e.g., accuracy, precision, recall; MSE for regression models).
    - Tune the models by adjusting hyperparameters and applying regularization techniques to improve performance.
 
 6. **Conclusion and Reporting**  
